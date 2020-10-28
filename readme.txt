@@ -1,3 +1,3 @@
-欢迎光临我的第一个git测试库
+欢迎光临我的第一个仓库
 
-Welcom you to my first repository of testing.
+Welcom you to my first repository。
